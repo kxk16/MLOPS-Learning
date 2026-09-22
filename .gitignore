@@ -1,0 +1,17 @@
+# MLflow
+mlartifacts/
+*/mlartifacts/
+
+mlruns/
+*/mlruns/
+
+mlflow.db
+
+# Models
+*.pkl
+*.joblib
+
+# Environments
+myenv/
+tensor/
+venv/
